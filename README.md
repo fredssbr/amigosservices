@@ -21,3 +21,7 @@ docker compose up -d
   "email": "<<EMAIL_HERE>>"
 }
 ```
+
+## Service Discovery (Eureka server)
+
+* Address: http://localhost:8761/eureka
